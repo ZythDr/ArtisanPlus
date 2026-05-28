@@ -1,3 +1,5 @@
+WIP fork of [@Otari98](https://github.com/Otari98)'s Artisan-WotLK addon which adds some extra features
+
 # Artisan
 Compact professions window for World of Warcraft 3.3.5.
  
