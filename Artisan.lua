@@ -12,7 +12,9 @@ Artisan.CollapsedHeaders = {}
 ArtisanConfig = {}
 ArtisanCustom = {}
 
+BINDING_HEADER_ARTISAN = "Artisan+"
 BINDING_HEADER_ARTISAN_TITLE = "Artisan Bindings"
+BINDING_NAME_ARTISAN_TOGGLE = "Toggle Artisan"
 BINDING_NAME_ARTISAN_CREATE = CREATE
 BINDING_NAME_ARTISAN_CREATE_ALL = CREATE_ALL
 

@@ -586,7 +586,9 @@ local function applySingleLayout()
         if frame and saved then
             if saved.width then frame:SetWidth(saved.width) end
             if saved.height then frame:SetHeight(saved.height) end
-            restorePoints(frame, saved.points)
+            if name ~= "ArtisanFrame" then
+                restorePoints(frame, saved.points)
+            end
         end
     end
 

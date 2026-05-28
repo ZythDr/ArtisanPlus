@@ -1,8 +1,8 @@
 ## Interface: 30300
-## Title: Artisan
+## Title: Artisan+
 ## Notes: Compact window for your professions
-## Version: 3.1
-## Author: Spith
+## Version: 3.1.1
+## Author: Spith (Original Artisan-WotLK), ZythDr ("ArtisanPlus" fork)
 
 ## SavedVariables: ArtisanConfig
 ## SavedVariablesPerCharacter: ArtisanCustom
